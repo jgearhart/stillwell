@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/jgearhart/stillwell
 
 ##########
 # SITE SETTINGS
@@ -25,9 +25,9 @@ title: Touring Antiquity: The Richard Stillwell Collection
 tagline: from the Department of Art and Archaeology
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Photographs from the Richard Stillwell Collection"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: jgearhart
 
 ##########
 # COLLECTION SETTINGS
@@ -61,7 +61,7 @@ metadata: stillwelldata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
