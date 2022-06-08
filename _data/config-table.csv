@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+location,Location
 description,Description
-subject,Subjects
+latitude,Latitude
+longitude,Longitude
