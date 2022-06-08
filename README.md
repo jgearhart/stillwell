@@ -1,6 +1,6 @@
-# collectionbuilder-gh
+# Richard Stillwell Demo Collection 
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+A test to see how CollectionBuilder works to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
