@@ -1,7 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
-Locations,/locations.html
+Browse the Collection,/browse.html
+Locations,/locations.html,Explore
 Map,/map.html
-Data,/data.html
+Data,/data.html,Explore
 About,/about.html
+Explore,/explore.html
